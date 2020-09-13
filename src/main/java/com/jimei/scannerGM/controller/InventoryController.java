@@ -46,7 +46,7 @@ public class InventoryController {
 	private InventoryService inventoryService;
 	// 连接对象
 	public static GClient client = null;
-
+	//测试
 //	//是否红外盘点
 //	private static boolean redCode = false;
 
